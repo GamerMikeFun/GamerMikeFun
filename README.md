@@ -4,7 +4,7 @@
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me: email me!
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a YT channel and you should SUBSCRIBE! [[https://www.youtube.com/@gamermikefun4463|Sub Here!]]
+- ⚡ Fun fact: I have a YT channel and you should SUBSCRIBE![Sub Here!]([https://link-url-here.org](https://www.youtube.com/@gamermikefun4463))
 
 <!---
 GamerMikeFun/GamerMikeFun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
